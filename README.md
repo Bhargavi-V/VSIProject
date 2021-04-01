@@ -1,2 +1,2 @@
-# VSIProject
+# VSISeleniumAutomationProject
 this is vsi project
